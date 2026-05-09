@@ -32,4 +32,4 @@ Interactive mobile sales dashboard built in Power BI to analyze revenue (769M), 
 ## Author
 Sachin Saxena
 
-Linkedin: https://www.linkedin.com/in/sachin-saxena-18b498219/
+[Linkedin Profile](https://www.linkedin.com/in/sachin-saxena-18b498219/)
