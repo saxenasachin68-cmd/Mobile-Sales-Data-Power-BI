@@ -144,7 +144,7 @@ The dataset includes:
 
 
 ## Author
-Sachin Saxena
-
+Sachin Saxena<br>
+Email: saxenasachin68@gmail.com<br>
 [Linkedin](https://www.linkedin.com/in/sachin-saxena-18b498219/)
-Email: saxenasachin68@gmail.com
+
