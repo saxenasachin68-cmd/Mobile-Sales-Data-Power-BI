@@ -18,6 +18,43 @@ Mobile retail businesses generate large volumes of sales data across different c
 
 ---
 
+## Project Structure
+
+```text
+Mobile-Sales-Data-Power-BI/
+│
+├── README.md
+├── dashboard.png
+├── Mobile_Sales_Dashboard.pbix
+└── mobile_sales_data.xlsx
+```
+
+---
+
+## Dataset
+
+The dataset includes:
+
+- Mobile brand details
+- Sales transactions
+- Quantity sold
+- Customer ratings
+- Payment methods
+- City-level sales data
+- Monthly sales records
+
+---
+
+## Tools & Technologies
+
+- Power BI
+- Excel
+- DAX
+- Power Query
+
+---
+
+
 ## Data Cleaning & Preparation
 
 - Removed incomplete and invalid transaction records
@@ -93,28 +130,6 @@ Mobile retail businesses generate large volumes of sales data across different c
 
 ---
 
-## Dataset
-
-The dataset includes:
-
-- Mobile brand details
-- Sales transactions
-- Quantity sold
-- Customer ratings
-- Payment methods
-- City-level sales data
-- Monthly sales records
-
----
-
-## Tools & Technologies
-
-- Power BI
-- Excel
-- DAX
-- Power Query
-
----
 
 ## Special Features Used
 
@@ -125,20 +140,7 @@ The dataset includes:
 - Brand-wise Comparison Analysis
 - Dynamic Filtering
  
----
 
-## Project Structure
-
-```text
-Mobile-Sales-Data-Power-BI/
-│
-├── README.md
-├── dashboard.png
-├── Mobile_Sales_Dashboard.pbix
-└── mobile_sales_data.xlsx
-```
-
----
 
 
 ## Author
